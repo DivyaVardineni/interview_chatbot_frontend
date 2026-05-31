@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 
-server_loc=""
+server_loc="server_url"
 
 st.title(" AI Interview learninig Chatbot")
 
